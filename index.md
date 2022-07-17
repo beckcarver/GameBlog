@@ -1,5 +1,5 @@
 ---
-title: An un-professional series of critiques
+title: un-professional series of critiques
 ---
 
 I don't know what I am doing
