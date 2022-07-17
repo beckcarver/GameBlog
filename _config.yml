@@ -1,10 +1,10 @@
 theme: jekyll-theme-midnight
-title: Series of jumbled ideas
+title: A series of jumbled game design ideas
 author: Beckham C
 email: beckhamjcarver@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Beckham Carver's foray into GitHub pages and putting my game design
-  ideas to paper (cloud hosted string).
+  ideas to paper (cloud hosted ones and zeros).
 
 # social links
 github_username:  beckcarver # DO NOT include the @ character, or else the build will fail!
