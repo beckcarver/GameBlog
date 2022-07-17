@@ -1,11 +1,12 @@
 ---
-title: un-professional series of critiques
+title: Beckham's jumbled takes
 ---
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/GameBlog/_posts{{ post.url }}">{{ post.title }}</a>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
