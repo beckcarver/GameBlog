@@ -1,1 +1,4 @@
-title: The nintendo approach
+---
+title: "The nintendo approach"
+date: 2022-07-16
+---
