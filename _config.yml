@@ -1,1 +1,14 @@
 theme: jekyll-theme-midnight
+title: Silly little blog
+author: beckcarver
+email: beckhamjcarver@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Beckham Carver test blog for learning to use GitHub pages,
+  along iwht jekyll. Hopefully I can begin a decent blog and
+  use this to land a game design job.
+
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  beckcarver # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
