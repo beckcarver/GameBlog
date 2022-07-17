@@ -1,6 +1,6 @@
 ---
 title: the nintendo approach
-date: 2022-07-16
+layout: default
 ---
 
 # lol
